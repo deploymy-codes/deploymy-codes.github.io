@@ -4,7 +4,7 @@ title: Legal Notice
 published: true
 ---
 
-DeployMy.Codes (also known as DMC) are not affiliated to Run DMC.
+## DeployMy.Codes (also known as DMC) are not affiliated to Run DMC.
 
 DMC are [DeployMy.Codes](http://blog.deploymy.codes/about/), we provide developers, CTO’s and marketing personnel with greater control and freedom over the deployment of code.
 
