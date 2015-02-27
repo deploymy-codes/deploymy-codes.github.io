@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Helloooo
+title: Deploy My Codes
+published: true
 ---
 
-DMC is awesome!
+First Blog Post Coming Soon
