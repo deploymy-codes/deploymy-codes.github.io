@@ -2,7 +2,7 @@
 layout: page
 title: About Us
 permalink: /about/
-published: false
+published: true
 ---
 
 Hello from DeployMy.Codes!
