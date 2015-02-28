@@ -13,7 +13,7 @@ How DMC can benefit Developers
 
 DeployMy.Codes takes the hassle out of manual deployment.   DeployMy.Codes will allow you to deploy different commits when you feel comfortable in doing so.
 
-How DMC can benefit CTO's:
+How DMC can benefit CTO's
 
 Our interface will provide you with a list of deploys that are ready to be deployed to production.  You can decide exactly which deploys you want to push/test, without having to trouble your developers to do it manually for you.
 
