@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 DeployMy.Codes takes the hassle out of manual deployment.
