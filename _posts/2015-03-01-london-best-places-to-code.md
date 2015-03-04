@@ -13,14 +13,14 @@ This buzzing and eclectic workspace is a regular haunt of many enterprising indi
 ![](/images/googlecampus.jpg)
 
 ## The Social
-[www.thesocial.com/cafeworkspace/](www.thesocial.com/cafeworkspace/)
+<http://www.thesocial.com/cafeworkspace/>
 
 The social is a bar that doubles as a co-working space during the day.  The Social boasts to be the only workspace in London that has its own technical support team on hand (courtesy of http://sussedit.com/).  If your laptop breaks or you want to print something, you will be in good hands here.
 
 ![](/images/the-social.jpg)
 
 ## The Steam Engine
-[www.publove.co.uk/en/Main/Pubs/Steam-Engine-Waterloo.aspx](www.publove.co.uk/en/Main/Pubs/Steam-Engine-Waterloo.aspx)
+<http://www.publove.co.uk/en/Main/Pubs/Steam-Engine-Waterloo.aspx>
 
 The Steam Engine in Lambeth North is a relaxed and welcoming pub.  The pub offers free wifi and free coffee refills throughout the day.
 
@@ -31,7 +31,7 @@ The Steam Engine is a great choice to get some work done before you meet colleag
 ![](/images/the-steam-engine-2.jpg)
 
 ## Four Corners Café
-[www.four-corners-cafe.com/](www.four-corners-cafe.com/)
+<http://www.four-corners-cafe.com/](www.four-corners-cafe.com/>
 
 The Four Corners café is a bright and exciting café set in Lower March in Waterloo.
 
@@ -44,7 +44,7 @@ Four Corners is also very centrally located, giving you the convenience of getti
 ![](/images/four-corners-2.jpg)
 
 ## Camino Tapas Bar
-[www.camino.uk.com/restaurants/kings-cross/](www.camino.uk.com/restaurants/kings-cross/)
+<http://www.camino.uk.com/restaurants/kings-cross/>
 
 Camino Tapas bar in Kings Cross offers a selection of enjoyable breakfast options for an early start, including the Juice bar that opens at 8am on weekdays.
 
