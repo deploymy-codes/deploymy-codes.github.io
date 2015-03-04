@@ -6,7 +6,7 @@ layout: post
 ## DeployMy.Codes Best Places To Code In London
 
 ## Google Campus
-[www.campuslondon.com/](www.campuslondon.com/)
+<www.campuslondon.com/>
 
 This buzzing and eclectic workspace is a regular haunt of many enterprising individuals of east London.  Not only is the Google campus a great place to develop your own ideas, but great opportunities are only a conversation away.
 
