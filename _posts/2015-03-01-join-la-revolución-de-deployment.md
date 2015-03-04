@@ -6,7 +6,7 @@ published: true
  
 So web developers can concentrate on coding!
  
-CTO’s don’t have to bother their developers when they want to deploy code, they can do it themselves.
+Non-technical personnel don’t have to bother their developers when they want to deploy code, they can do it themselves.
  
 Testers can deploy code to staging to test it, without having to bother the developers to do it manually for them.
  
