@@ -2,6 +2,10 @@
 published: true
 ---
 
+---
+layout: post
+---
+
 ## DeployMy.Codes Best Places To Code In London
 
 ## Google Campus
