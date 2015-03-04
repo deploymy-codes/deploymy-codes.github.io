@@ -6,9 +6,9 @@ layout: post
 ## DeployMy.Codes Best Places To Code In London
 
 ## Google Campus
-<http://www.campuslondon.com/>
+<https://www.campuslondon.com/>
 
-This buzzing and eclectic workspace is a regular haunt of many enterprising individuals of east London.  Not only is the Google campus a great place to develop your own ideas, but great opportunities are only a conversation away.
+This buzzing and eclectic workspace is a regular haunt of enterprising individuals of east London.  Not only is the Google campus a great place to develop your own ideas, but great opportunities are only a conversation away.
 
 ![](/images/googlecampus.jpg)
 
@@ -31,7 +31,7 @@ The Steam Engine is a great choice to get some work done before you meet colleag
 ![](/images/the-steam-engine-2.jpg)
 
 ## Four Corners Café
-<http://www.four-corners-cafe.com/](www.four-corners-cafe.com/>
+[http://www.four-corners-cafe.com/](www.four-corners-cafe.com/)
 
 The Four Corners café is a bright and exciting café set in Lower March in Waterloo.
 
