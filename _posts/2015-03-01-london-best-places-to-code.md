@@ -31,7 +31,7 @@ The Steam Engine is a great choice to get some work done before you meet colleag
 ![](/images/the-steam-engine-2.jpg)
 
 ## Four Corners Café
-[www.four-corners-cafe.com/](http://www.four-corners-cafe.com/)
+[www.four-corners-cafe.com/ target="_blank"](http://www.four-corners-cafe.com/)
 
 The Four Corners café is a bright and exciting café set in Lower March in Waterloo.
 
