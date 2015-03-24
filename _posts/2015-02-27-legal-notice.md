@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Legal Notice
-published: false
+published: true
 ---
 
 ## Unfortunately, DeployMy.Codes (also known as DMC) are not affiliated with Run DMC.
