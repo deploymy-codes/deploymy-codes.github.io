@@ -3,32 +3,32 @@ published: true
 ---
 
 ##Edamame Soy Beans
-This boring food is for the beginning for the project, when you still care about your health.
+### This boring food is for the beginning for the project, when you still care about your health.
 ![](/images/Edamame-Soy-Beans)
 
 ##Percy Pigs
-For the deadline in 10 minutes
+### For the deadline in 10 minutes
 ![](/images/percy-pigs)
 
 [To be bought here](http://www.marksandspencer.com/MSSearchResultsDisplayCmd?&searchTerm=percy+pigs&langId=-24&storeId=10151&catalogId=10051&categoryId=0&typeAhead=)
 
 
 ##Popcorn
-For the long haul.
+###For the long haul.
 ![](/images/popcorn)
 
 
 ##Wasabi Peanuts
-A little kick for when things are not going right.
+###A little kick for when things are not going right.
 ![](/images/wasabi-peanuts)
 
 [Buy them here.](http://www.tesco.com/groceries/Product/Details/?id=269012948)
 
 
 ##Steak and Chips
-For when you absolutely smashed that deadline.  Well done, you genius.
+###For when you absolutely smashed that deadline.  Well done, you genius.
 ![](/images/steak)
 
 [Here is a basic recipe.](http://www.bbcgoodfood.com/recipes/1661644/steak-and-chips)
 
-If after you finish your steak and chips, you still have some energy, we would love you to [become a private Beta tester for DeployMy.Codes](deploymy.codes)
+#If after you finish your steak and chips, you still have some energy, we would love you to [become a private Beta tester for DeployMy.Codes](deploymy.codes)
