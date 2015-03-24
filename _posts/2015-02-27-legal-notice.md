@@ -6,7 +6,7 @@ published: true
 
 ## Unfortunately, DeployMy.Codes (also known as DMC) are not affiliated with Run DMC.
 
-DMC are [DeployMy.Codes](http://blog.deploymy.codes/about/), we provide developers, CTO’s and marketing personnel with greater control and freedom over the deployment of code.
+DMC are [DeployMy.Codes](http://blog.deploymy.codes/about/), we provide developers and non-technical personnel with greater control and freedom over the deployment of code.
 
 Run DMC are a popular hip-hop group from New York, see below:
 
