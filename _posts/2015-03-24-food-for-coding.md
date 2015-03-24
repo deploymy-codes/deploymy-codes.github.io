@@ -29,6 +29,6 @@ A little kick for when things are not going right.
 For when you absolutely smashed that deadline.  Well done, you genius.
 ![](/http://www.bbcgoodfood.com/sites/bbcgoodfood.com/files/recipe_images/recipe-image-legacy-id--777510_11.jpg)
 
-[If you still have the energy, here is a basic recipe.](http://www.bbcgoodfood.com/recipes/1661644/steak-and-chips)
+[Here is a basic recipe.](http://www.bbcgoodfood.com/recipes/1661644/steak-and-chips)
 
 If after you finish your steak and chips, you still have some energy, we would love you to [become a private Beta tester for DeployMy.Codes](deploymy.codes)
