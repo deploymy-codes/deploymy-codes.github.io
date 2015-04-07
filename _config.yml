@@ -65,6 +65,11 @@ sass:
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jemoji
+
+logo: "/assets/images/logo.jpg"
+cover: "/assets/images/blog-cover.jpg"
+paginate: 5
 
 # Exclude these files from your production _site
 exclude:
