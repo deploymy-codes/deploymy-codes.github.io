@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 ---
 
 ## Why We Need To Automate Manual Deployment
