@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 ---
 
 ##DeployMy.Codes takes the hassle out of manual deployment.
