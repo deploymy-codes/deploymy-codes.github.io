@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 ---
 
 ##Edamame Soy Beans
