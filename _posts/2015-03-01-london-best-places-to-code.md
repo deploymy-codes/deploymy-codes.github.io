@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+author: jack
 ---
 
 ## DeployMy.Codes Best Places To Code In London

@@ -1,12 +1,13 @@
 ---
 published: true
 layout: post
+author: jack
 ---
 
 ##Absolute Radio
 [http://www.absoluteradio.co.uk](http://www.absoluteradio.co.uk)
 
-##XFM 
+##XFM
 [http://www.xfm.co.uk/london/](http://www.xfm.co.uk/london/)
 
 ##The Vaccines

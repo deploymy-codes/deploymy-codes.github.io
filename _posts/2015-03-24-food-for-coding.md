@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+author: jack
 ---
 
 ##Edamame Soy Beans
