@@ -9,19 +9,19 @@ Web developers are the most important part of the ecommerce industry, as without
 The best web developers will normally have substantial knowledge of the theoretical and practical sides of at least a couple of programming languages.  Your area of expertise will depend on whether or not you are a front end developer or a back end developer.  However a knowledge of both front and backend programming languages would always be an advantage.
  
 Below is a list of common web development languages:
-- Ruby on Rails
-- C++
-- C#
-- Java
-- Python
-- Javascript
-- PHP
-- Scala
-- CSS
-- HTML
-- SQL
-- Angular.js
-- JQUERY
+-Ruby on Rails
+-C++
+-C#
+-Java
+-Python
+-Javascript
+-PHP
+-Scala
+-CSS
+-HTML
+-SQL
+-Angular.js
+-JQUERY
 
 
 ## General Skills Required by a Developer
