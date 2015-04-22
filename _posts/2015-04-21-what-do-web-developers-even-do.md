@@ -67,17 +67,17 @@ It is also a good idea to join in any local development language user groups.  T
  
 Examples of such groups include:
  
-http://www.meetup.com/Vim-London/
-http://phplondon.org/about/
-http://londonajax.com/
-http://www.meetup.com/london-scala/
-https://skillsmatter.com/groups/49-lsug
-http://lnug.org/
-http://www.londonclojurians.org/
-http://www.meetup.com/londonajax/events/23647631/
-LRUG
-http://www.meetup.com/parisrb/
-http://www.meetup.com/Lyon-Ruby-Brigade
+- http://www.meetup.com/Vim-London/
+- http://phplondon.org/about/
+- http://londonajax.com/
+- http://www.meetup.com/london-scala/
+- https://skillsmatter.com/groups/49-lsug
+- http://lnug.org/
+- http://www.londonclojurians.org/
+- http://www.meetup.com/londonajax/events/23647631/
+- LRUG
+- http://www.meetup.com/parisrb/
+- http://www.meetup.com/Lyon-Ruby-Brigade
  
  
 ## Salary
